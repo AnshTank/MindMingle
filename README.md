@@ -102,7 +102,7 @@ We welcome contributions to enhance and improve the llm app. If you have ideas o
 
 ## Feedback and Issues
 
-If you encounter any issues or have feedback, please open an issue on our [GitHub repository](https://github.com/kanugurajesh/Student-LMS/issues). We appreciate your input and strive to make our system better with each update.
+If you encounter any issues or have feedback, please open an issue on our [GitHub repository](https://github.com/AnshTank). We appreciate your input and strive to make our system better with each update.
 
 ## Tech Stack
 
