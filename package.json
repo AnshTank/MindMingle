@@ -36,6 +36,7 @@
     "replicate": "^0.25.2",
     "resend": "^2.1.0",
     "rive-react": "^4.6.2",
+    "sharp": "^0.33.5",
     "tailwind-merge": "^2.1.0",
     "tailwindcss-animate": "^1.0.7"
   },

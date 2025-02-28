@@ -77,7 +77,6 @@ export default function Home() {
     }
 
     const sendEmail = async () => {
-
       try {
         const emailRes = await fetch(`/api/send`, {
           method: "POST",
@@ -93,13 +92,12 @@ export default function Home() {
         const emailResponse = await emailRes.json();
 
         if (emailResponse.error) {
-          return toast.error("error in email response")
+          return toast.error("error in email response");
         }
 
         setEmailSent(true);
 
         toast.success("Email sent successfully!");
-
       } catch (err) {
         toast.error("Something went wrong");
       }
@@ -108,7 +106,7 @@ export default function Home() {
     if (imageURl && receivedEmail) {
       sendEmail();
     }
-  }, [imageURl]);
+  }, [email, imageURl, receivedEmail]);
 
   return (
     <div>
