@@ -92,8 +92,8 @@ npm run dev
 
 ## Demo
 
-<a href="">
-  <img src="https://github.com/kanugurajesh/Mentify/assets/77529419/239c0881-969d-4e30-94a9-b9d53c6fecdd" alt="mental health" width=400 height=300>
+<a href="https://drive.google.com/file/d/1wzRzF_MtKEpduk4hr9OSe76_pPdfMnWI/view?usp=sharing">
+  <img src="https://unsplash.com/photos/artificial-intelligence-concept-futuristic-data-transfer-2IdCr4bXD4U" alt="mental health" width=400 height=300>
 </a>
 
 ## Contribution Guidelines
