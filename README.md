@@ -92,7 +92,7 @@ npm run dev
 
 ## Demo
 
-<a href="https://www.youtube.com/watch?v=1jk-MocZ1vI">
+<a href="">
   <img src="https://github.com/kanugurajesh/Mentify/assets/77529419/239c0881-969d-4e30-94a9-b9d53c6fecdd" alt="mental health" width=400 height=300>
 </a>
 
